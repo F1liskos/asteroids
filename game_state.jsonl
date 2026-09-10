@@ -1,4 +1,0 @@
-{"timestamp": "17:04:24.493", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player_ship": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "17:04:25.511", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "player_ship": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "17:04:26.531", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "player_ship": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
-{"timestamp": "17:04:27.543", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "player_ship": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
