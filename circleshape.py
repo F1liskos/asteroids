@@ -20,5 +20,4 @@ class CircleShape(pygame.sprite.Sprite):
         pass
 
     def update(self, dt: float) -> None:
-        # must override
         pass
